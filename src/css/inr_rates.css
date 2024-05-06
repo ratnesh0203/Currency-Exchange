@@ -1,0 +1,39 @@
+.inr-main{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100vw;
+    height: 25vh;
+    font-size: 1.3rem;
+    font-weight: 700;
+    background-color: #eff2f5;
+}
+.marquee{
+    color: black;
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+
+.sec1{
+    display: flex;
+    justify-content: space-around;
+}
+.sec2{
+    display: flex;
+    justify-content: space-around;
+}
+.rupee{
+    color: green;
+}
+.euro{
+    color: blue;
+}
+.pound{
+    color: orangered;
+}
+.aud{
+    color: rgba(170, 170, 50, 0.954);
+}
+.yen{
+    color: rgb(237, 133, 151);
+}

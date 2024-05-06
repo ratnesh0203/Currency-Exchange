@@ -1,0 +1,29 @@
+.main_supp{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding-top: 40px;
+    background-color: #3d404ee3;
+    color: white     ;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    text-align: justify;
+}
+.row span{
+    /* border: 1px solid black; */
+    width: 180px;
+
+}
+
+.supp-head{
+    font-size: 1.3rem;
+    color: orangered;
+    font-weight: 800;
+}
